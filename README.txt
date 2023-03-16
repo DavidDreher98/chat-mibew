@@ -1,12 +1,12 @@
-Mibew Messenger 3.5.7
+# Mibew Messenger 3.5.7
 
 INTRODUÇÃO
 Bem vindo! Nesse repositório o Mibew está na sua versão 3.5.7 (Last version).
 
-Nesse repositório está com as seguintes correções:
-* CHAT AO INICIAR UMA CONVERSA FICA APENAS CARREGANDO;
-* ERRO AO FAZER UPLOAD DE IMAGEM PARA O OPERADOR;
-* ESTRUTURA SQL DO BANCO DE DADOS RESTRUTURADA (Execute o Script do arquivo "SQL Mibew.sql").
+> Nesse repositório está com as seguintes correções:
+> * CHAT AO INICIAR UMA CONVERSA FICA APENAS CARREGANDO;
+> * ERRO AO FAZER UPLOAD DE IMAGEM PARA O OPERADOR;
+> * ESTRUTURA SQL DO BANCO DE DADOS RESTRUTURADA (Execute o Script do arquivo "SQL Mibew.sql").
 
 REQUISITOS
 
